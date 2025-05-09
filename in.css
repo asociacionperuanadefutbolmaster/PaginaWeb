@@ -55,7 +55,3 @@ h1 {
     display: flex;
     align-content: center;
 }
-
-.Banner_Logos img:hover {
-    transform: scale(1.5);
-}
