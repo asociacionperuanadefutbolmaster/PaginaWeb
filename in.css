@@ -55,6 +55,7 @@ h1 {
     display: grid;
     grid-template-columns: repeat(7, 1 fr);
     width: 90%;
+    margin: 5%;
     grid-gap: 30px;
 }
 
