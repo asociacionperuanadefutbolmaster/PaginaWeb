@@ -55,6 +55,7 @@ h1 {
     display: flex;
     align-content: center;
     align-items: center;
+    text-align: center;
 }
 
 .Banner_Logos img {
