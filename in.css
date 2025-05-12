@@ -54,6 +54,7 @@ h1 {
 .Banner_Logos {
     display: grid;
     grid-template-columns: repeat(7, 1fr);
+    width: 90%;
     margin: 2%;
 }
 
@@ -70,6 +71,7 @@ h1 {
 .Banner_Logos_2 {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
+    width: 90%;
     margin: 2%;
 }
 
