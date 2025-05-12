@@ -54,11 +54,12 @@ h1 {
 .Banner_Logos {
     display: grid;
     grid-template-columns: repeat(8, 1fr);
-    margin: 5%;
+    margin: 2%;
 }
 
 .Banner_Logos img {
-    transition: 300ms;
+    transition: all 300ms;
+    position: relative;
 }
 
 .Banner_Logos img:hover {
