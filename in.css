@@ -6,6 +6,10 @@
     font-weight: bolder;
 }
 
+table {
+    display: auto;
+}
+
 #Menu {
     text-align: center;
     background-color: #000;
