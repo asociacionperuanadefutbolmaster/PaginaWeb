@@ -78,7 +78,7 @@ h1 {
 .Banner_Logos_2 {
     display: grid;
     justify-items: center;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(9, 2fr);
     width: 90%;
     margin: 2%;
     background-color: blue;
