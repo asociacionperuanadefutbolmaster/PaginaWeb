@@ -58,11 +58,11 @@ h1 {
 
 .Banner_Logos {
     display: grid;
+    align-items: center;
     grid-template-columns: repeat(10, 2fr);
     width: 90%;
     margin: 2%;
-    background-color: red;
-    opacity: 10%;
+    background-color: rgba (100, 0, 0, 0.25);
 }
 
 .Banner_Logos img {
@@ -79,6 +79,7 @@ h1 {
     grid-template-columns: repeat(4, 1fr);
     width: 90%;
     margin: 2%;
+    background-color: rgba (0, 0, 255, 0.25);
 }
 
 .Banner_Logos_2 img {
