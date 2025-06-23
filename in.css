@@ -93,6 +93,11 @@ h1 {
     transform: scale(1.5);
 }
 
+table {
+    width: 100%;
+    border: solid 1px #000;
+}
+
 .PieDePagina {
     font-family: sans-serif;
     color: rgba(196, 188, 188, 0.84);
