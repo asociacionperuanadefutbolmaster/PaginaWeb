@@ -62,9 +62,9 @@ h1 {
     justify-items: center;
     width: 100%;
     grid-template-columns: repeat(10, 2fr);
-    width: 90%;
     margin: 2%;
     background-color: red;
+    padding: 3em;
 }
 
 .Banner_Logos img {
@@ -80,9 +80,10 @@ h1 {
     display: grid;
     justify-items: center;
     grid-template-columns: repeat(9, 2fr);
-    width: 90%;
+    width: 100%;
     margin: 2%;
     background-color: blue;
+    padding: 3em;
 }
 
 .Banner_Logos_2 img {
@@ -97,6 +98,10 @@ h1 {
 table {
     width: 100%;
     border: solid 1px #000;
+}
+
+tr {
+    border: solid 1px black;
 }
 
 .PieDePagina {
