@@ -9,6 +9,16 @@
 table {
     text-align: center;
     display: auto;
+    border: solid 1px black;
+}
+
+th {
+    border: solid 1px black;
+}
+
+td{
+    border: #000;
+    text-align: center;
 }
 
 #Menu {
@@ -93,19 +103,6 @@ h1 {
 
 .Banner_Logos_2 img:hover {
     transform: scale(1.5);
-}
-
-table {
-    width: 100%;
-    border: solid 1px #000;
-}
-
-th {
-    border: solid 1px black;
-}
-
-td{
-    border: #000;
 }
 
 .PieDePagina {
