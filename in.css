@@ -6,24 +6,7 @@
     font-weight: bolder;
 }
 
-table {
-    width: 100%;
-    border: solid 1px #000;
-}
 
-th {
-    text-align: center;
-    font-family: sans-serif;
-    font-size: small;
-    border: solid 1px #000;
-}
-
-td{
-    text-align: center;
-    font-family: sans-serif;
-    font-size: small;
-    border: solid 1px #000;
-}
 
 #Menu {
     text-align: center;
@@ -74,7 +57,7 @@ h1 {
     display: grid;
     align-items: center;
     justify-items: center;
-    width: 80%;
+    width: 90%;
     grid-template-columns: repeat(10, 2fr);
     margin: 2%;
     background-color: red;
@@ -95,7 +78,7 @@ h1 {
     justify-items: center;
     align-items: center;
     grid-template-columns: repeat(9, 2fr);
-    width: 80%;
+    width: 90%;
     margin: 2%;
     background-color: blue;
     padding: 1em;
@@ -108,6 +91,25 @@ h1 {
 
 .Banner_Logos_2 img:hover {
     transform: scale(1.5);
+}
+
+table {
+    width: 100%;
+    border: solid 1px #000;
+}
+
+th {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: small;
+    border: solid 1px #000;
+}
+
+td{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: small;
+    border: solid 1px #000;
 }
 
 .PieDePagina {
