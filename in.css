@@ -60,7 +60,7 @@ h1 {
     display: grid;
     align-items: center;
     justify-items: center;
-    width: 100%;
+    width: 800%;
     grid-template-columns: repeat(10, 2fr);
     margin: 2%;
     background-color: red;
@@ -80,7 +80,7 @@ h1 {
     display: grid;
     justify-items: center;
     grid-template-columns: repeat(9, 2fr);
-    width: 10%;
+    width: 80%;
     margin: 2%;
     background-color: blue;
     padding: 1em;
@@ -100,8 +100,12 @@ table {
     border: solid 1px #000;
 }
 
-tr {
+th {
     border: solid 1px black;
+}
+
+td{
+    border: #000;
 }
 
 .PieDePagina {
