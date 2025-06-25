@@ -12,6 +12,11 @@ table {
     border: solid 1px black;
 }
 
+tr {
+    border: #000;
+    text-align: center;
+}
+
 th {
     border: solid 1px black;
 }
@@ -89,6 +94,7 @@ h1 {
 .Banner_Logos_2 {
     display: grid;
     justify-items: center;
+    align-items: center;
     grid-template-columns: repeat(9, 2fr);
     width: 80%;
     margin: 2%;
