@@ -64,7 +64,7 @@ h1 {
     grid-template-columns: repeat(10, 2fr);
     margin: 2%;
     background-color: red;
-    padding: 3em;
+    padding: 1em;
 }
 
 .Banner_Logos img {
@@ -80,10 +80,10 @@ h1 {
     display: grid;
     justify-items: center;
     grid-template-columns: repeat(9, 2fr);
-    width: 100%;
+    width: 10%;
     margin: 2%;
     background-color: blue;
-    padding: 3em;
+    padding: 1em;
 }
 
 .Banner_Logos_2 img {
