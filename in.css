@@ -7,23 +7,22 @@
 }
 
 table {
-    text-align: center;
-    display: auto;
-    border: solid 1px black;
-}
-
-tr {
-    border: #000;
-    text-align: center;
+    width: 100%;
+    border: solid 1px #000;
 }
 
 th {
-    border: solid 1px black;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: small;
+    border: solid 1px #000;
 }
 
 td{
-    border: #000;
     text-align: center;
+    font-family: sans-serif;
+    font-size: small;
+    border: solid 1px #000;
 }
 
 #Menu {
