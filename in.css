@@ -90,8 +90,8 @@ h1 {
 }
 
 table {
+    margin: auto;
     text-align: center;
-    width: 100%;
     border: solid 1px #000;
     
 }
